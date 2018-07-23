@@ -1,0 +1,22 @@
+{
+  "name": "cryptocruvesmartcontracts",
+  "version": "0.0.1",
+  "description": "Smart Contracts for CryptoCurve. Token and Crowdsale.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "crypto",
+    "cryptocurrency",
+    "CryptoCurve",
+    "SmartContract",
+    "Solidity",
+    "OpenZeppelin"
+  ],
+  "author": "antonnell.crypto@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "zeppelin-solidity": "^1.10.0"
+  }
+}

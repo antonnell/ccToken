@@ -6,6 +6,12 @@ module.exports = {
             port: 8545,
             network_id: "*", // Match any network id
             gas: 4800000,
+        },
+        test: {
+            host: host,
+            port: 8545,
+            network_id: "*", // Match any network id
+            gas: 4800000,
         }
     },
     mocha: {
